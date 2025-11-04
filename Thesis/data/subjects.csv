@@ -1,0 +1,76 @@
+SUBJECT_CODE,SUBJECT_NAME,TYPE,SEMESTER,LEC_SEM,CLASS_CAP,PROF_ID
+AA2000L,Advanced Algorithms,Obligatory,4,Lecture,80,BAR100
+AA2000S,Advanced Algorithms,Obligatory,4,Seminar,30,KNI101
+AI2010L,Artificial Intelligence,Obligatory,5,Lecture,100,EVA102
+AI2010S,Artificial Intelligence,Obligatory,5,Seminar,30,OWE103
+AI2440S,Advanced AI,Elective,7,Seminar,25,MUR113
+BC2460S,Blockchain,Elective,6,Seminar,25,BAR100
+BD2450L,Big Data,Elective,6,Lecture,50,CAR114
+BI2020S,Business Intelligence,Elective,6,Seminar,25,REE104
+CA2470L,Computer Architecture,Obligatory,2,Lecture,80,KNI101
+CC2030L,Cloud Computing,Obligatory,5,Lecture,80,TUR105
+CC2030S,Cloud Computing,Obligatory,5,Seminar,30,DIA106
+CD2480S,Continuous Delivery,Elective,5,Seminar,25,EVA102
+CE2490S,Compiler Engineering,Elective,7,Seminar,25,OWE103
+CG2040S,Computer Graphics,Elective,4,Seminar,25,ROG107
+CN2050L,Computer Networks,Obligatory,3,Lecture,100,MOR108
+CN2050S,Computer Networks,Obligatory,3,Seminar,30,FOS109
+CR2500S,Cryptography,Obligatory,4,Seminar,25,REE104
+CS2060L,Cyber Security,Obligatory,4,Lecture,80,COO110
+CS2060S,Cyber Security,Obligatory,4,Seminar,30,PET111
+CV2070S,Computer Vision,Elective,7,Seminar,25,WAT112
+DA2080S,Data Analytics,Obligatory,2,Seminar,25,MUR113
+DB2090L,Database Systems,Obligatory,2,Lecture,100,CAR114
+DB2090S,Database Systems,Obligatory,2,Seminar,30,BAR100
+DE2510S,DevOps Engineering,Elective,5,Seminar,25,TUR105
+DF2100S,Digital Forensics,Elective,7,Seminar,25,KNI101
+DL2520S,Deep Learning,Elective,6,Seminar,25,DIA106
+DM2110S,Data Mining,Obligatory,5,Seminar,25,EVA102
+DS2120L,Data Structures,Obligatory,1,Lecture,100,OWE103
+DS2120S,Data Structures,Obligatory,1,Seminar,30,REE104
+DS2530S,Distributed Systems,Elective,5,Seminar,25,ROG107
+DT2810L,Design Thinking,Elective,3,Lecture,60,SMI116
+DV2130S,Data Visualization,Elective,3,Seminar,25,TUR105
+ES2140S,Embedded Systems,Elective,6,Seminar,25,DIA106
+ET2150S,Ethical Hacking,Elective,7,Seminar,25,ROG107
+FP2160L,Functional Programming,Elective,5,Lecture,50,MOR108
+GD2170S,Game Development,Elective,6,Seminar,25,FOS109
+HC2180L,Human-Computer Interaction,Obligatory,3,Lecture,80,COO110
+HC2180S,Human-Computer Interaction,Obligatory,3,Seminar,30,PET111
+HP2190L,High-Performance Computing,Elective,7,Lecture,50,WAT112
+IP2200S,Image Processing,Elective,6,Seminar,25,MUR113
+IR2210S,Information Retrieval,Elective,5,Seminar,25,CAR114
+IS2220L,Information Security,Obligatory,4,Lecture,100,BAR100
+IT2230L,Intro to Technology,Obligatory,1,Lecture,100,KNI101
+IT2540S,Intro to IT,Obligatory,1,Seminar,30,MOR108
+JP2550S,Java Programming,Obligatory,2,Seminar,30,FOS109
+ML2240L,Machine Learning,Obligatory,6,Lecture,80,EVA102
+ML2240S,Machine Learning,Obligatory,6,Seminar,35,OWE103
+NE2250S,Network Engineering,Obligatory,4,Seminar,25,REE104
+NL2260S,Natural Language Processing,Elective,7,Seminar,25,TUR105
+NP2270S,Network Programming,Elective,5,Seminar,25,DIA106
+OS2280L,Operating Systems,Obligatory,3,Lecture,100,ROG107
+OS2280S,Operating Systems,Obligatory,3,Seminar,30,MOR108
+PA2290S,Parallel Algorithms,Elective,7,Seminar,25,FOS109
+PC2300L,Programming Concepts,Obligatory,1,Lecture,100,COO110
+PC2300S,Programming Concepts,Obligatory,1,Seminar,30,PET111
+PM2310S,Project Management,Obligatory,5,Seminar,35,WAT112
+PP2320L,Python Programming,Obligatory,2,Lecture,80,MUR113
+PP2320S,Python Programming,Obligatory,2,Seminar,30,CAR114
+QC2330L,Quantum Computing,Elective,7,Lecture,50,BAR100
+RO2340S,Robotics,Elective,6,Seminar,25,KNI101
+SA2350S,System Administration,Obligatory,4,Seminar,25,EVA102
+SBJ001,Defence,Obligatory,1,Lecture,20,NEW001
+SBJ002,Defence,Obligatory,4,Lecture,20,NEW001
+SBJ003,Defence,Obligatory,6,Lecture,20,NEW001
+SBJ004,Defence,Obligatory,6,Seminar,20,NEW001
+SE2360L,Software Engineering,Obligatory,3,Lecture,80,OWE103
+SE2360S,Software Engineering,Obligatory,3,Seminar,30,REE104
+SM2370S,Security Management,Elective,6,Seminar,25,TUR105
+SP2380S,Scripting Languages,Obligatory,2,Seminar,25,DIA106
+ST2390S,Software Testing,Obligatory,4,Seminar,25,ROG107
+TC2400L,Theory of Computation,Obligatory,5,Lecture,80,MOR108
+UX2410S,UX Design,Obligatory,2,Seminar,25,FOS109
+WD2420L,Web Development,Obligatory,1,Lecture,100,COO110
+WD2420S,Web Development,Obligatory,1,Seminar,35,PET111
+WE2430S,Wearable Technology,Elective,7,Seminar,25,WAT112
