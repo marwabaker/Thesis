@@ -1,4 +1,1 @@
-Please download the requirements.txt. PYQT5 is needed to run this app.
-run main.py to start the App. 
 
-Hope you'll like my app, Thank you :) 
